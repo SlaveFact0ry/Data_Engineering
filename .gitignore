@@ -2,10 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.python-version
 note/
 # C extensions
 *.so
-
+.env
 # Distribution / packaging
 .Python
 build/
