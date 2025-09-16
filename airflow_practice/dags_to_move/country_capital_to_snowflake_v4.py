@@ -103,7 +103,7 @@ def transform_load():
 
 
 with DAG(
-    dag_id = 'CountryCapital_v4',
+    dag_id = 'CountryCaptial_v4',
     start_date = datetime(2025,1,10),
     catchup=False,
     tags=['ETL'],
